@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "usaprinting-e6b0b",
+  "private_key_id": "5b176ecce02e2da7d78789bbc373343d1ed1c161",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCU0SpaLBLT9EBe\nf9g07bkkNpD3OxbcbuNlO8c3RzDJLVq2GHyx2HOyVD7XUpVMUG3gZ2JKznoIM1Fy\nr2Qpqy6AhP9nfM/LJrQ2rppN7tCPxGwoxgYvP0WhLZ/jvHGcGsLmIphr8jF8lfK6\nIAWsnX5vrIE1T1Fe9B1wHKmLMBOtBOffZk6BJdWJdg/fnXoPILKOFoRgCdGm8Fqn\nQWZ6jFnCkz+/JsCrMZV0PbmWGYsKUC0Z58F6NxgWSmEI98U6XL0wCsWqg2I+J+qz\nlc3DTqPo+Pk2usk5hj1vq9VSRKIWBF0zNqvLOedGvVgLBpyXWFsziORQorRtMvNn\n+U1fDzR7AgMBAAECggEAFSOvNfbrx8L6/9F+R2p7cbr0lcIFidOQprk6n84TjohM\nSfCpiePa73qLILAg+CG2sflNm52/9PlBOR7UBh1EckoyM6OlqtB5KglcbvSdGMcI\nrDQQ/dYpkG84NrP2mXutst44M6FISU/NloXk+HO42akyA34ca3YW1m2j4ds2+E0y\nEG0SZT4WnHYbmPxS0cuaAPxuemd3AIK3xZt/cAzzVWo2t7GGTPEWptaB5CVTLHXz\niojUqC8PzMBVhTNt5Sle+cTUxYnqwXb0Bd+ZYH9emfyaF2I55hl8pgsBa3CAB6SA\nSn2NeydikIUiLhMOQOdkOnclfAbuetdKjrXaUppHnQKBgQDN++zmlhQC2YWFxPTp\nwqI2x587iuleU/BG3XKQWXHaeaPOuaz0TwC5KddsC3BBwhMiHQHVoItF7P38CGbL\nK51BOPXzXo+BJ6SDkl6R6VUhM1B7VvpnlqQwKzelECYIpebSUGeg/EHzBMVzWlqm\nYIGjcVg5G4VtOx4WKk4U0RvnlwKBgQC487VivWUCyAI/P/Z1mB4wMUJguEEtN3tR\nsWGxR5PPsfAqpAp4NvlrnckLdTTObGjgPcx+TvYU9gXy7CnhlMiVIu734Jseads7\n/SlXC4xWcMSicqQscdQMUV/CB+gji/UC2YS6Pr24LOmdrroBL/XGKHmt8FeaVKri\n/PPwyKvWvQKBgACLMrPlH4ZmZpjUzUS0s9LrMftpQXZzSEYXnY7N/aPzAECycsdu\nUfUrLBtn6FL0HTLQ2slilBuKJZ19tC/DHLYoXVXYIQ7ZOPDz+PXvpL7isMqyjxSo\n7CQIaSwxX7hUH8jcV3mwUMhAcfj8+xJHXPA+g1obPX3tUwYB9JTPfIBfAoGAEGtC\nPQPHRdnvqSHKhWH9vBWDaQaycossXXI70/sguh13zrFFZKqstcsKIARFrdWd8dpK\nnyPvYKj+mjQw+5+zttmlEUhVPPv0xHyTAPE7gij8q9c1j+SDCJzovVbqWs1/8MLS\nr54GRaVnD+KFDLnvPao2MyTVAhRmH0SJe2S1LJkCgYEAxXvy3/kaVdtYH8k6KtQL\n9HdA/rZPEeVfJhiVqMNjxfj+x+/mQTDULu35uXe5HXw/HcSnaC6AWWnAaQLYnMJf\nruJesM+vPUF0vpA2VXlNs4GKEc102GbXcGlVRh+MkPZ3doXDbfrnIIu7zO/ki02Q\naHP8BaTTM469LoNpwN3g7to=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-6p1gx@usaprinting-e6b0b.iam.gserviceaccount.com",
+  "client_id": "107065541521430713980",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-6p1gx%40usaprinting-e6b0b.iam.gserviceaccount.com"
+}
